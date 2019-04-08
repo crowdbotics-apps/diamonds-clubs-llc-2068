@@ -1,0 +1,3 @@
+rootProject.name = 'diamonds_clubs_llc_2068'
+
+include ':app'
